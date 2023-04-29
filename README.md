@@ -10,7 +10,7 @@ Additionally, the baseline.txt file created by the project can serve as a refere
 
 Overall, the FIM project can provide an additional layer of security to a system and aid in the early detection and response to potential security incidents.
 
-I've uploaded the uploaded the PowerShell script (FIM) to tun this Tool under the repos for this page.
+I've uploaded the uploaded the PowerShell script to run this FIM Tool under the repos for this page.
 
 
 ## How it works
